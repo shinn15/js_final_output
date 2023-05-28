@@ -69,10 +69,7 @@ function user_input(){
       listNFTs();
       getTotalSupply();
       }
-      else{
-         console.log("error");
-      }
-
+      
 }
 
 // call your functions below this line
@@ -82,6 +79,7 @@ user_input();
 
 /*
 mintNFT("shinn","black","hoodie","gold chain");
+mintNFT("bob","black","hoodie","gold chain");
 listNFTs();
 getTotalSupply();
 */
